@@ -29,3 +29,6 @@ tarefa-api
 
 1. Baixe e instale o MySQL:
 -https://dev.mysql.com/downloads/installer/
+2. Crie uma database:
+-- Banco do projeto
+CREATE DATABASE tarefa;
